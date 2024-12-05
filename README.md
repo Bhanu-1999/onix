@@ -83,3 +83,4 @@ Future Enhancements
 Implement Terraform for infrastructure automation.
 Integrate Kubernetes for scalable deployments.
 
+[cicd onix.pdf](https://github.com/user-attachments/files/18024325/cicd.onix.pdf)
